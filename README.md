@@ -46,7 +46,6 @@ git push origin <branch_name>
 2. Commit and push to your fork for PR
 
 
-
 ## Cosmostation's Services and Community
 
 - [Official Website](https://www.cosmostation.io)
